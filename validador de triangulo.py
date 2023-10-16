@@ -7,3 +7,4 @@ if n1 < n2+n3 and n2 < n1+n3 and n3 < n1+n2:
     print('\033[0;49;92mForma um Triangulo seu Rapaz')
 else:
     print('\033[0;49;31mNão forma um Triangulo seu Rapaz')
+# iaearnold
